@@ -1,12 +1,71 @@
-- 👋 Hi, I’m @suneha
-- 👀 I’m interested in - Exploring new technologies, traveling to different cultures, and mastering culinary arts. I'm also passionate about photography and nature.
-- 🌱 I’m currently learning - Web development with a focus on JavaScript and React. I'm also delving into machine learning and AI.
-- 💞️ I’m looking to collaborate on - Open-source projects, innovative tech solutions, and creative writing ventures. I love working on projects that bring together tech and creativity.
-- 📫 How to reach me - You can email me at kaursuneha6@gmial.com] or connect with me on LinkedIn Suneha kaur.
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: - I once participated in a treasure hunt that spanned across three cities and found the hidden treasure!
+# 👋 Hi, I'm Suneha 
 
-<!---
-suneha09/suneha09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech in Computer Science and Engineering | 7th Semester  
+🌟 Curious Learner | Problem Solver | Aspiring Government Officer  
+📍 Pathankot, Punjab | 💬 Languages: English, Hindi, Punjabi  
+
+---
+
+## 💼 About Me
+
+I’m a passionate and hardworking Computer Science student who believes in balancing logic with creativity. My goal is to secure a role in a top tech company while preparing for high-post government exams.
+
+I love designing smart, useful applications that make life easier and love exploring both technical and real-world problem-solving.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Java, Python, C#  
+- **Core Concepts**: DSA, OOP, OS, DBMS  
+- **Frameworks & Tools**: Android Studio, GitHub, MySQL  
+- **Soft Skills**: Team Collaboration, Creativity, Fast Learning  
+
+---
+
+## 🚀 Projects
+
+### 📱 Quick Cook App  
+> Android app for cooking lovers. Recipes, step-by-step instructions, and category filters to help users of all levels.
+
+### 🎮 Bingo Multiplayer Game  
+> Fun Android-based 2-player Bingo game with real-time interaction and smooth logic handling.
+
+### 📚 College Resource Portal *(Idea Project)*  
+> A full-stack platform to upload, view, and manage college notes, assignments, and previous year papers. Built with HTML/CSS, JavaScript, and Firebase. *(Coming soon)*
+
+### 📖 GovGuide App *(Govt Job Focused)*  
+> A mobile app idea designed to help aspirants track important exams, eligibility, resources, and reminders for upcoming govt jobs (UPSC, SSC, etc.).
+
+### 🎯 DSA Practice Vault  
+> A structured repository of Java-based DSA problems, categorized topic-wise (Arrays, Strings, Trees, etc.) with clean, commented code and solutions.
+
+---
+
+## 🏅 Achievements & Certifications
+
+- ✅ Completed multiple Coursera certifications:
+  - Problem Solving Using Java
+  - Programming with Python
+  - Web Development Essentials
+- 🏆 Scored 94% in Matriculation
+- 🌱 Actively engaged in online learning, challenges, and aptitude practice
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [kaursuneha6@gmail.com](mailto:kaursuneha6@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/suneha7031524b](https://www.linkedin.com/in/suneha7031524b)  
+- 💻 GitHub: [github.com/suneha09](https://github.com/suneha09)  
+- 📜 Certificates: [Coursera Profile](https://coursera.org/verify/WAS6XV945YS0)
+
+---
+
+## 📊 GitHub Stats
+
+![Suneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneha09&show_icons=true&theme=tokyonight)
+
+---
+
+_Thanks for visiting! I’m open to collaborations, placements, and impactful ideas._
