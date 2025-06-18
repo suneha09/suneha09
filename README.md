@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/suneha09/suneha09/main/banner.png" width="100%" alt="Suneha GitHub Banner"/>
+
+
 # 👋 Hi, I'm Suneha 
 
 🎓 B.Tech in Computer Science and Engineering | 7th Semester  
