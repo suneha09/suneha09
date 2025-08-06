@@ -11,7 +11,7 @@
 
 ## 💼 About Me
 
-I’m a passionate and hardworking Computer Science student who believes in balancing logic with creativity. My goal is to secure a role in a top tech company while preparing for high-post government exams.
+I’m a passionate and hardworking Computer Science student who believes in balancing logic with creativity. My goal is to secure a role in a top tech company.
 
 I love designing smart, useful applications that make life easier and love exploring both technical and real-world problem-solving.
 
